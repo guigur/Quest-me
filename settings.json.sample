@@ -1,0 +1,8 @@
+{
+  "url" : "https://urlquest",
+  "window_period" : [
+    { "name": "matin", "start": "8:30:00", "stop": "13:29:59", "period_id": "1" },
+    { "name": "après-midi", "start": "13:30:00", "stop": "18:29:59", "period_id": "2" }
+  ]
+}
+

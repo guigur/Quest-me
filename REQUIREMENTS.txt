@@ -1,0 +1,4 @@
+python 3.8 or higher
+json 
+bs4
+slackclient 2.x

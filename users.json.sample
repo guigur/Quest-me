@@ -1,0 +1,13 @@
+{"users" : [
+  {
+    "civilite" : "M.",
+    "nom" : "PLACE",
+    "prenom" : "Holder",
+    "email" : "place.holder@example.com",
+    "entreprise" : "company",
+    "filiere" : "code-company",
+    "filiere_ii" : "M.;PLACE;Holder;place.holder@example.com;AKKA;photos/place_holder.jpg;1",
+    "pc" : "3000",
+    "distance" : "2"
+  },
+]}
